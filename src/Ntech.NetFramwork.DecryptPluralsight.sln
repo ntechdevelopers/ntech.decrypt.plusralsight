@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ntech.NetFramework.DecryptPluralsight", "net.framwork\Ntech.NetFramework.DecryptPluralsight\Ntech.NetFramework.DecryptPluralsight.csproj", "{8C4F61D5-3892-4B21-BF6D-E28E90E263AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{B3BA7406-A01B-4D4A-AE93-82F61125DE20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ntech.NetStandard.Utilities.DecryptPluralSight", "net.standard\Ntech.NetStandard.Utilities.DecryptPluralSight\Ntech.NetStandard.Utilities.DecryptPluralSight.csproj", "{FEA6D37F-DB16-4FE7-81B5-AE6717EBE983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4F61D5-3892-4B21-BF6D-E28E90E263AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4F61D5-3892-4B21-BF6D-E28E90E263AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4F61D5-3892-4B21-BF6D-E28E90E263AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4F61D5-3892-4B21-BF6D-E28E90E263AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA6D37F-DB16-4FE7-81B5-AE6717EBE983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA6D37F-DB16-4FE7-81B5-AE6717EBE983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA6D37F-DB16-4FE7-81B5-AE6717EBE983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA6D37F-DB16-4FE7-81B5-AE6717EBE983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FEA6D37F-DB16-4FE7-81B5-AE6717EBE983} = {B3BA7406-A01B-4D4A-AE93-82F61125DE20}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B19739F-6D0E-4BD6-A04F-3D7A687104EE}
+	EndGlobalSection
+EndGlobal
